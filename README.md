@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Software Engineeering, Data Science and more.
 - 📫 How to reach me </br>
 Email : plaipmc@gmail.com
+LinkedIn : www.linkedin.com/in/pamica-srimora
 
 <!---
 plaipmc/plaipmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
